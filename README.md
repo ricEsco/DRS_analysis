@@ -46,7 +46,8 @@ Details of the DRS Oscilloscope can be found [here](https://www.psi.ch/drs/Docum
 10. Would you like to click through the histograms as they are being generated? (yes or no)
     - Answering "yes" will generate a histogram then waint until the user double-clicks on the plot before generating the next histogram.
     - Answering "no" will generate all the histograms consecutively.
-The remaining questions are Channel info that was specified by the user in the DRS application during the setup of the experiment.
+    
+The remaining questions are Channel information that was specified by the user in the DRS application during the setup of the experiment.
 
 11. Does Ch.1 have data? (yes or no)
     - Was there an input connected to Ch.1 during the experiment?
@@ -55,7 +56,7 @@ The remaining questions are Channel info that was specified by the user in the D
 - Choose a time after the end of most waveforms recorded by Ch.1. (in ns)
   - This value can be arrived at by looking through a few waveforms.
   
-Likewise for the remaining channels.
+Likewise for the remaining channels...
 
 ---
 ### Location of generated root files, waveforms and histograms.
