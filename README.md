@@ -40,10 +40,15 @@ Details of the DRS Oscilloscope can be found [here](https://www.psi.ch/drs/Docum
 The remaining questions are Channel info that was specified by the user in the DRS application during the setup of the experiment.
 11. Does Ch.1 have data? (yes or no)
     - Was there an input connected to Ch.1 during the experiment?
-    11.1 Choose a time before the beginning of most waveforms recorded by Ch.1. (in ns)
-         - This value can be arrived at by looking through a few waveforms.
-    11.2 Choose a time after the end of most waveforms recorded by Ch.1. (in ns)
+      11.1 Choose a time before the beginning of most waveforms recorded by Ch.1. (in ns)
+           - This value can be arrived at by looking through a few waveforms.
+      11.2 Choose a time after the end of most waveforms recorded by Ch.1. (in ns)
+      
 Likewise for the remaining channels.
+
+---
+
+### Location of generated root files, waveforms and histograms.
 
 Root files are saved in the 'unprocessed data' directory inside the 'DRS_data' directory.
 Waveforms have their own directory in the 'processed data' directory inside the 'DRS_data' directory.
