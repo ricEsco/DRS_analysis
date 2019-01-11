@@ -61,6 +61,6 @@ Likewise for the remaining channels...
 ---
 ### Location of generated root files, waveforms and histograms.
 
-- Root files are saved in the 'unprocessed data' directory inside the 'DRS_data' directory.
-- Waveforms have their own directory in the 'processed data' directory inside the 'DRS_data' directory.
-- Histograms also have their own directory in the 'processed data' directory inside the 'DRS_data' directory.
+- Root files are saved in ~drs_scope/data/processed/
+- Waveforms are saved in ~drs_scope/plots/{filename}/waveforms/
+- Histograms are saved in ~drs_scope/plots/{filename}/histograms/
