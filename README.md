@@ -1,7 +1,7 @@
 # DRS_analysis
 
 The script is used to analyze data taken by the DRS Oscilloscope.
-Details of the DRS Oscilloscope can be found [here](https://www.psi.ch/drs/DocumentationEN/manualrev50.pdf).
+Details of the DRS Oscilloscope can be found [here](https://www.psi.ch/drs/DocumentationEN/manual_rev50.pdf).
 
 ---
 
